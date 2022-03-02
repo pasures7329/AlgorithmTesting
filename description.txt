@@ -1,0 +1,17 @@
+Repository explained:
+
+Input folder -
+Folder contains all the input files given to repository
+
+Output folder-
+The output extracted from console for each input file is save in the output folder. Before execution of pytest file, output folder should be empty.
+
+test_algorithm.py-
+pytest file with testcases
+
+commonFunctions.py
+All the common functions used in test_algorithm.py are saved in the commonFunctions.py
+
+Test cases:
+1.Validate input file
+2.Verify the output with different input 
