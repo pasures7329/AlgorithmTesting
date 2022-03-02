@@ -1,2 +1,0 @@
-input_folder="C:\\Users\\parsures\\Documents\\GitHub\\input"
-output_folder="C:\\Users\\parsures\\Documents\\GitHub\\output"
